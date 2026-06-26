@@ -1,0 +1,34 @@
+[
+  {
+    "role":"AI Engineer",
+    "skills":["Python","Machine Learning","Deep Learning","LLM"],
+    "salary":"8-20 LPA",
+    "courses":[
+      "Machine Learning by Andrew Ng",
+      "Deep Learning Specialization",
+      "GenAI with Python"
+    ],
+    "roadmap":[
+      "Learn Python",
+      "Learn ML",
+      "Learn DL",
+      "Build Projects",
+      "Learn LLM"
+    ]
+  },
+  {
+    "role":"Data Scientist",
+    "skills":["Python","SQL","Statistics","Pandas"],
+    "salary":"7-18 LPA",
+    "courses":[
+      "IBM Data Science",
+      "Python for Data Science"
+    ],
+    "roadmap":[
+      "Python",
+      "Statistics",
+      "SQL",
+      "Machine Learning"
+    ]
+  }
+]
